@@ -1,2 +1,4 @@
 # First-Code
-Thia is my first Git Repo
+This is my first Git Repo..
+<br>
+Author - Abdullah Khan
